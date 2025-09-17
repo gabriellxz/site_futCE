@@ -1,0 +1,7 @@
+.main-home {
+    background-image: url("../../assets/Castelão_Arena.webp");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+}

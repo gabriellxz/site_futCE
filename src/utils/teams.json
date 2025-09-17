@@ -1,0 +1,329 @@
+{
+    "times_cearenses": [
+        {
+            "id": 1,
+            "nome": "Ceará Sporting Club",
+            "apelidos": [
+                "Vovô",
+                "Alvinegro"
+            ],
+            "fundacao": "1914-06-02",
+            "cidade": "Fortaleza",
+            "estadio": "Castelão",
+            "capacidade_estadio": 63903,
+            "titulos_estaduais": 45,
+            "titulos_nacionais": [
+                "Copa do Nordeste (2015, 2020)",
+                "Série C (2011)"
+            ],
+            "cor_principal": [
+                "preto",
+                "branco"
+            ],
+            "mascote": "Vovô",
+            "site_oficial": "https://cearasc.com/",
+            "escudo": "https://upload.wikimedia.org/wikipedia/pt/5/5e/Cear%C3%A1_SC.png",
+            "categoria": "Profissional"
+        },
+        {
+            "id": 2,
+            "nome": "Fortaleza Esporte Clube",
+            "apelidos": [
+                "Leão",
+                "Tricolor"
+            ],
+            "fundacao": "1918-10-18",
+            "cidade": "Fortaleza",
+            "estadio": "Castelão",
+            "capacidade_estadio": 63903,
+            "titulos_estaduais": 46,
+            "titulos_nacionais": [
+                "Série B (2018)",
+                "Copa do Nordeste (2019, 2022)"
+            ],
+            "cor_principal": [
+                "azul",
+                "branco",
+                "vermelho"
+            ],
+            "mascote": "Leão",
+            "site_oficial": "https://fortalezaec.com.br/",
+            "escudo": "https://upload.wikimedia.org/wikipedia/pt/5/58/Fortaleza_Esporte_Clube.png",
+            "categoria": "Profissional"
+        },
+        {
+            "id": 3,
+            "nome": "Ferroviário Atlético Clube",
+            "apelidos": [
+                "Ferrão",
+                "Time de Aço"
+            ],
+            "fundacao": "1933-05-09",
+            "cidade": "Fortaleza",
+            "estadio": "Presidente Vargas",
+            "capacidade_estadio": 20000,
+            "titulos_estaduais": 7,
+            "titulos_nacionais": [
+                "Série C (1998)"
+            ],
+            "cor_principal": [
+                "preto",
+                "vermelho"
+            ],
+            "mascote": "Galo Ferroviário",
+            "site_oficial": "https://ferroviario.net/",
+            "escudo": "https://upload.wikimedia.org/wikipedia/pt/6/6c/Ferrovi%C3%A1rio_AC.png",
+            "categoria": "Profissional"
+        },
+        {
+            "id": 4,
+            "nome": "Guarany Sporting Club",
+            "apelidos": [
+                "Alvinegro de Sobral",
+                "Gigante do Norte"
+            ],
+            "fundacao": "1938-04-02",
+            "cidade": "Sobral",
+            "estadio": "Junco",
+            "capacidade_estadio": 10000,
+            "titulos_estaduais": 2,
+            "titulos_nacionais": [],
+            "cor_principal": [
+                "preto",
+                "branco"
+            ],
+            "mascote": "Índio",
+            "site_oficial": "https://guaranysobral.com.br/",
+            "escudo": "https://upload.wikimedia.org/wikipedia/pt/4/4a/Guarany_SC.png",
+            "categoria": "Profissional"
+        },
+        {
+            "id": 5,
+            "nome": "Floresta Esporte Clube",
+            "apelidos": [
+                "Galo de Ouro",
+                "Time da Floresta"
+            ],
+            "fundacao": "1954-07-04",
+            "cidade": "Fortaleza",
+            "estadio": "Domingão",
+            "capacidade_estadio": 5000,
+            "titulos_estaduais": 0,
+            "titulos_nacionais": [],
+            "cor_principal": [
+                "verde",
+                "branco"
+            ],
+            "mascote": "Galo",
+            "site_oficial": "https://florestaec.com.br/",
+            "escudo": "https://upload.wikimedia.org/wikipedia/pt/5/5d/Floresta_Esporte_Clube.png",
+            "categoria": "Profissional"
+        },
+        {
+            "id": 6,
+            "nome": "Atlético Cearense",
+            "apelidos": [
+                "Atlético",
+                "Dragão"
+            ],
+            "fundacao": "1997-11-15",
+            "cidade": "Maracanaú",
+            "estadio": "Municipal de Maracanaú",
+            "capacidade_estadio": 5000,
+            "titulos_estaduais": 0,
+            "titulos_nacionais": [],
+            "cor_principal": [
+                "vermelho",
+                "preto"
+            ],
+            "mascote": "Dragão",
+            "site_oficial": "https://atleticocearense.com.br/",
+            "escudo": "https://upload.wikimedia.org/wikipedia/pt/6/6e/Atl%C3%A9tico_Cearense.png",
+            "categoria": "Profissional"
+        },
+        {
+            "id": 7,
+            "nome": "Barbalha Futebol Clube",
+            "apelidos": [
+                "Trem Bala do Cariri",
+                "BFC"
+            ],
+            "fundacao": "2018-03-15",
+            "cidade": "Barbalha",
+            "estadio": "Rosendo de Sousa",
+            "capacidade_estadio": 3000,
+            "titulos_estaduais": 0,
+            "titulos_nacionais": [],
+            "cor_principal": [
+                "azul",
+                "amarelo"
+            ],
+            "mascote": "Locomotiva",
+            "site_oficial": "https://barbalhafc.com/",
+            "escudo": "https://upload.wikimedia.org/wikipedia/pt/8/8d/Barbalha_FC.png",
+            "categoria": "Profissional"
+        },
+        {
+            "id": 8,
+            "nome": "Icasa Sport Club",
+            "apelidos": [
+                "Caldeirão do Jurema",
+                "Aurinegro"
+            ],
+            "fundacao": "1963-10-01",
+            "cidade": "Juazeiro do Norte",
+            "estadio": "Romeirão",
+            "capacidade_estadio": 16000,
+            "titulos_estaduais": 0,
+            "titulos_nacionais": [],
+            "cor_principal": [
+                "amarelo",
+                "preto"
+            ],
+            "mascote": "Periquito",
+            "site_oficial": "https://icasasportclub.com.br/",
+            "escudo": "https://upload.wikimedia.org/wikipedia/pt/0/06/Icasa_SC.png",
+            "categoria": "Profissional"
+        },
+        {
+            "id": 9,
+            "nome": "Maranguape Futebol Clube",
+            "apelidos": [
+                "Tigre do Sertão",
+                "MFC"
+            ],
+            "fundacao": "2004-02-05",
+            "cidade": "Maranguape",
+            "estadio": "Moraisão",
+            "capacidade_estadio": 4000,
+            "titulos_estaduais": 0,
+            "titulos_nacionais": [],
+            "cor_principal": [
+                "azul",
+                "branco"
+            ],
+            "mascote": "Tigre",
+            "site_oficial": "https://maranguapefc.com.br/",
+            "escudo": "https://upload.wikimedia.org/wikipedia/pt/2/2c/Maranguape_FC.png",
+            "categoria": "Profissional"
+        },
+        {
+            "id": 10,
+            "nome": "Pacajus Esporte Clube",
+            "apelidos": [
+                "Cajueiro",
+                "PEC"
+            ],
+            "fundacao": "2005-01-12",
+            "cidade": "Pacajus",
+            "estadio": "Moraisão",
+            "capacidade_estadio": 4000,
+            "titulos_estaduais": 0,
+            "titulos_nacionais": [],
+            "cor_principal": [
+                "vermelho",
+                "branco"
+            ],
+            "mascote": "Cajueiro",
+            "site_oficial": "https://pacajusec.com.br/",
+            "escudo": "https://upload.wikimedia.org/wikipedia/pt/7/7e/Pacajus_EC.png",
+            "categoria": "Semi-profissional"
+        },
+        {
+            "id": 11,
+            "nome": "Quixadá Futebol Clube",
+            "apelidos": [
+                "Galo Cego",
+                "QFC"
+            ],
+            "fundacao": "2008-03-10",
+            "cidade": "Quixadá",
+            "estadio": "Municipal de Quixadá",
+            "capacidade_estadio": 5000,
+            "titulos_estaduais": 0,
+            "titulos_nacionais": [],
+            "cor_principal": [
+                "preto",
+                "branco"
+            ],
+            "mascote": "Galo",
+            "site_oficial": "https://quixadafc.com.br/",
+            "escudo": "https://upload.wikimedia.org/wikipedia/pt/1/1d/Quixad%C3%A1_FC.png",
+            "categoria": "Semi-profissional"
+        },
+        {
+            "id": 12,
+            "nome": "Tianguá Esporte Clube",
+            "apelidos": [
+                "TEC",
+                "Alviceleste"
+            ],
+            "fundacao": "2009-05-15",
+            "cidade": "Tianguá",
+            "estadio": "Municipal de Tianguá",
+            "capacidade_estadio": 3500,
+            "titulos_estaduais": 0,
+            "titulos_nacionais": [],
+            "cor_principal": [
+                "azul",
+                "branco"
+            ],
+            "mascote": "Gavião",
+            "site_oficial": "https://tianguaec.com.br/",
+            "escudo": "https://upload.wikimedia.org/wikipedia/pt/8/8b/Tiangu%C3%A1_EC.png",
+            "categoria": "Semi-profissional"
+        },
+        {
+            "id": 13,
+            "nome": "Horizonte Futebol Clube",
+            "apelidos": [
+                "HFC",
+                "Gigante do Oeste"
+            ],
+            "fundacao": "2004-01-10",
+            "cidade": "Horizonte",
+            "estadio": "Domingão",
+            "capacidade_estadio": 5000,
+            "titulos_estaduais": 0,
+            "titulos_nacionais": [],
+            "cor_principal": [
+                "azul",
+                "branco"
+            ],
+            "mascote": "Águia",
+            "site_oficial": "https://horizontefc.com.br/",
+            "escudo": "https://upload.wikimedia.org/wikipedia/pt/9/9a/Horizonte_FC.png",
+            "categoria": "Semi-profissional"
+        },
+        {
+            "id": 14,
+            "nome": "Uniclinic Esporte Clube",
+            "apelidos": [
+                "Clinica",
+                "Alviceleste"
+            ],
+            "fundacao": "1998-05-01",
+            "cidade": "Fortaleza",
+            "estadio": "Presidente Vargas",
+            "capacidade_estadio": 20000,
+            "titulos_estaduais": 0,
+            "titulos_nacionais": [],
+            "cor_principal": [
+                "azul",
+                "branco"
+            ],
+            "mascote": "Gavião",
+            "site_oficial": "https://uniclinic.com.br/",
+            "escudo": "https://upload.wikimedia.org/wikipedia/pt/0/0f/Uniclinic_EC.png",
+            "categoria": "Semi-profissional"
+        }
+    ],
+    "informacoes_adicionais": {
+        "estadio_principal_compartilhado": "Castelão (Arena Castelão)",
+        "maior_rivalidade": "Clássico-Rei (Ceará x Fortaleza)",
+        "ultimo_campeao_cearense": "Fortaleza (2024)",
+        "total_times_listados": 14,
+        "fonte_escudos": "Wikipedia",
+        "observacao": "Os dados de títulos estaduais e capacidade dos estádios podem sofrer alterações com o tempo. Alguns times podem alternar entre categorias profissional e semi-profissional."
+    }
+}
