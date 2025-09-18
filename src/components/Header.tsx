@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 export default function Header() {
     return (
         <header className="flex justify-between items-center p-3 fixed w-full bg-white z-10">
-            <Link to={"/"} className="text-xl font-bold">FutCE</Link>
+            <Link to={"/"} className="text-xl font-bold italic">FutCE</Link>
 
             <div className="hidden sm:flex gap-4">
                 <Link to="/teams">Times</Link>
