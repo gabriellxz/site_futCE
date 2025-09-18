@@ -2,6 +2,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import './App.css'
 import Home from './Pages/Home/Home'
 import AllTeams from './Pages/AllTeams/AllTeams'
+import NewsPage from './Pages/NewsPage/NewsPage'
 
 function App() {
   return (
@@ -10,7 +11,7 @@ function App() {
         <Route path="/" element={<Home/>} />
         <Route path="/times" element={<AllTeams/>} />
         {/* time by id */}
-        {/* noticias */}
+        <Route path={"/notícias"} element={<NewsPage />} />
         {/* idolos */}
         {/* campeonatos */}
       </Routes>
