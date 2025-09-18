@@ -9,7 +9,6 @@ body {
     background-size: cover;
     background-position: center 20%;
     height: 300px;
-    max-width: 1200px;
     width: 100%;
     margin-top: 20px;
 }
@@ -18,8 +17,7 @@ body {
     background-image: url("https://imgs.search.brave.com/qREYx70cxNYDqlZx5d7s7EsHYPy-g567jWx3UVPQb_E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9uZTQ1/LmNvbS5ici93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyNS8wOS9D/YW52YS1NZWRpZGFz/LWRhcy1mb3Rvcy0x/My02MDB4MzM4LnBu/Zw");
     background-size: cover;
     background-position: center 20%;
-    height: 200px;
-    max-width: 600px;
+    height: 300px;
     width: 100%;
     margin-top: 20px;
 }
@@ -28,8 +26,7 @@ body {
     background-image: url("https://imgs.search.brave.com/QFCeo7UOqIlXOvKQIVjUcjF9M31uwkNgJJd6CSbhpyI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/dmF2ZWwuY29tLzIw/MjUwOTEzLTE5MzEy/My0xNzU3ODAyODYz/NDI1LmpwZw");
     background-size: cover;
     background-position: center 20%;
-     height: 200px;
-    max-width: 600px;
+    height: 300px;
     width: 100%;
     margin-top: 20px;
 }
