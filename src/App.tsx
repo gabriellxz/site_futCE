@@ -9,6 +9,10 @@ function App() {
       <Routes>
         <Route path="/" element={<Home/>} />
         <Route path="/times" element={<AllTeams/>} />
+        {/* time by id */}
+        {/* noticias */}
+        {/* idolos */}
+        {/* campeonatos */}
       </Routes>
     </BrowserRouter>
   )
