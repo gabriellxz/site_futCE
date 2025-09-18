@@ -106,7 +106,7 @@ export default function Home() {
                             </div>
                         </div>
                     </div>
-                    <Link to={"/notícias"} className="flex justify-center items-center gap-5 text-green-900 rounded-md uppercase cursor-pointer p-2 border-1 border-green-900">
+                    <Link to={"/notícias"} className="flex justify-center w-full items-center gap-5 text-green-900 rounded-md uppercase cursor-pointer p-2 border-1 border-green-900">
                         Ver todas as notícias
                         <FaArrowRight />
                     </Link>
