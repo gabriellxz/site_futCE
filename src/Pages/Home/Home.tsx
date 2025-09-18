@@ -24,6 +24,7 @@ export default function Home() {
                 </div>
             </div>
 
+            {/* SECTION ELITE CEARENSE */}
             <div className="p-5">
                 <div className="m-4 text-center">
                     <h1 className="text-3xl font-bold uppercase text-green-900">Elite Cearense</h1>
@@ -34,7 +35,7 @@ export default function Home() {
 
                     <div className="w-full bg-amber-500 p-[0.5px]"></div>
                 </div>
-                <div className="flex flex-col sm:flex-row justify-center items-center">
+                <div className="flex flex-col md:flex-row justify-center items-center">
                     {
                         teams.times_cearenses.slice(0, 2).map((team: Teams) => (
                             <div key={team.id} className={`shadow-lg p-5 rounded-md flex flex-col gap-3 m-2 w-full h-[350px]`}>
@@ -82,7 +83,35 @@ export default function Home() {
                 </Link>
             </div>
 
-
+            {/* SECTION NOTICIAS */}
+            <div className="p-5">
+                <div className="m-4 text-center">
+                    <h1 className="text-3xl font-bold uppercase text-green-900">Notícias</h1>
+                    <p className="text-2xl mb-2 text-zinc-500">
+                        Fique por dentro de tudo que acontece no futebol cearense
+                    </p>
+                    <div className="w-full bg-amber-500 p-[0.5px]"></div>
+                </div>
+                <div className="flex justify-center flex-col gap-3 items-center w-full">
+                    <div className="banner-main-news relative rounded-xl">
+                        <div className="flex items-center bg-black opacity-80 absolute z-10 object-cover w-full h-full text-white p-5 italic rounded-xl">
+                            <div>
+                                <p className="text-2xl font-bold">
+                                    Campeão SUB-20
+                                    da Copa do Nordeste
+                                </p>
+                                <p>
+                                    Vitória por 2 a 0, garante o placar no agregado (3x2), e a base cearense vence a competição.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <Link to={"/notícias"} className="flex justify-center items-center gap-5 text-green-900 rounded-md uppercase cursor-pointer p-2 border-1 border-green-900">
+                        Ver todas as notícias
+                        <FaArrowRight />
+                    </Link>
+                </div>
+            </div>
         </div>
     )
 }
