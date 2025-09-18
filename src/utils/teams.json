@@ -7,18 +7,17 @@
                 "Vovô",
                 "Alvinegro"
             ],
-            "fundacao": "1914-06-02",
+            "fundacao": "02/06/1914",
             "cidade": "Fortaleza",
             "estadio": "Castelão",
             "capacidade_estadio": 63903,
             "titulos_estaduais": 45,
             "titulos_nacionais": [
-                "Copa do Nordeste (2015, 2020)",
-                "Série C (2011)"
+                "Copa do Nordeste (2015, 2020, 2023)"
             ],
             "cor_principal": [
-                "preto",
-                "branco"
+                "#000000",
+                "#FFFFFF"
             ],
             "mascote": "Vovô",
             "site_oficial": "https://cearasc.com/",
@@ -32,19 +31,19 @@
                 "Leão",
                 "Tricolor"
             ],
-            "fundacao": "1918-10-18",
+            "fundacao": "18/10/1918",
             "cidade": "Fortaleza",
             "estadio": "Castelão",
             "capacidade_estadio": 63903,
             "titulos_estaduais": 46,
             "titulos_nacionais": [
                 "Série B (2018)",
-                "Copa do Nordeste (2019, 2022)"
+                "Copa do Nordeste (2019, 2022, 2024)"
             ],
             "cor_principal": [
-                "azul",
-                "branco",
-                "vermelho"
+                "#0000FF",
+                "#FFFFFF",
+                "#FF0000"
             ],
             "mascote": "Leão",
             "site_oficial": "https://fortalezaec.com.br/",
@@ -58,7 +57,7 @@
                 "Ferrão",
                 "Time de Aço"
             ],
-            "fundacao": "1933-05-09",
+            "fundacao": "09/05/1933",
             "cidade": "Fortaleza",
             "estadio": "Presidente Vargas",
             "capacidade_estadio": 20000,
@@ -67,8 +66,8 @@
                 "Série C (1998)"
             ],
             "cor_principal": [
-                "preto",
-                "vermelho"
+                "#000000",
+                "#FF0000"
             ],
             "mascote": "Galo Ferroviário",
             "site_oficial": "https://ferroviario.net/",
@@ -82,15 +81,15 @@
                 "Alvinegro de Sobral",
                 "Gigante do Norte"
             ],
-            "fundacao": "1938-04-02",
+            "fundacao": "02/04/1938",
             "cidade": "Sobral",
             "estadio": "Junco",
             "capacidade_estadio": 10000,
             "titulos_estaduais": 2,
             "titulos_nacionais": [],
             "cor_principal": [
-                "preto",
-                "branco"
+                "#000000",
+                "#FFFFFF"
             ],
             "mascote": "Índio",
             "site_oficial": "https://guaranysobral.com.br/",
@@ -104,15 +103,15 @@
                 "Galo de Ouro",
                 "Time da Floresta"
             ],
-            "fundacao": "1954-07-04",
+            "fundacao": "04/07/1954",
             "cidade": "Fortaleza",
             "estadio": "Domingão",
             "capacidade_estadio": 5000,
             "titulos_estaduais": 0,
             "titulos_nacionais": [],
             "cor_principal": [
-                "verde",
-                "branco"
+                "#008000",
+                "#FFFFFF"
             ],
             "mascote": "Galo",
             "site_oficial": "https://florestaec.com.br/",
@@ -126,15 +125,15 @@
                 "Atlético",
                 "Dragão"
             ],
-            "fundacao": "1997-11-15",
+            "fundacao": "15/11/1997",
             "cidade": "Maracanaú",
             "estadio": "Municipal de Maracanaú",
             "capacidade_estadio": 5000,
             "titulos_estaduais": 0,
             "titulos_nacionais": [],
             "cor_principal": [
-                "vermelho",
-                "preto"
+                "#FF0000",
+                "#000000"
             ],
             "mascote": "Dragão",
             "site_oficial": "https://atleticocearense.com.br/",
@@ -148,15 +147,15 @@
                 "Trem Bala do Cariri",
                 "BFC"
             ],
-            "fundacao": "2018-03-15",
+            "fundacao": "15/03/2018",
             "cidade": "Barbalha",
             "estadio": "Rosendo de Sousa",
             "capacidade_estadio": 3000,
             "titulos_estaduais": 0,
             "titulos_nacionais": [],
             "cor_principal": [
-                "azul",
-                "amarelo"
+                "#0000FF",
+                "#FFFF00"
             ],
             "mascote": "Locomotiva",
             "site_oficial": "https://barbalhafc.com/",
@@ -170,15 +169,15 @@
                 "Caldeirão do Jurema",
                 "Aurinegro"
             ],
-            "fundacao": "1963-10-01",
+            "fundacao": "01/10/1963",
             "cidade": "Juazeiro do Norte",
             "estadio": "Romeirão",
             "capacidade_estadio": 16000,
             "titulos_estaduais": 0,
             "titulos_nacionais": [],
             "cor_principal": [
-                "amarelo",
-                "preto"
+                "#FFFF00",
+                "#000000"
             ],
             "mascote": "Periquito",
             "site_oficial": "https://icasasportclub.com.br/",
@@ -192,15 +191,15 @@
                 "Tigre do Sertão",
                 "MFC"
             ],
-            "fundacao": "2004-02-05",
+            "fundacao": "05/02/2004",
             "cidade": "Maranguape",
             "estadio": "Moraisão",
             "capacidade_estadio": 4000,
             "titulos_estaduais": 0,
             "titulos_nacionais": [],
             "cor_principal": [
-                "azul",
-                "branco"
+                "#0000FF",
+                "#FFFFFF"
             ],
             "mascote": "Tigre",
             "site_oficial": "https://maranguapefc.com.br/",
@@ -214,15 +213,15 @@
                 "Cajueiro",
                 "PEC"
             ],
-            "fundacao": "2005-01-12",
+            "fundacao": "12/01/2005",
             "cidade": "Pacajus",
             "estadio": "Moraisão",
             "capacidade_estadio": 4000,
             "titulos_estaduais": 0,
             "titulos_nacionais": [],
             "cor_principal": [
-                "vermelho",
-                "branco"
+                "#FF0000",
+                "#FFFFFF"
             ],
             "mascote": "Cajueiro",
             "site_oficial": "https://pacajusec.com.br/",
@@ -236,15 +235,15 @@
                 "Galo Cego",
                 "QFC"
             ],
-            "fundacao": "2008-03-10",
+            "fundacao": "10/03/2008",
             "cidade": "Quixadá",
             "estadio": "Municipal de Quixadá",
             "capacidade_estadio": 5000,
             "titulos_estaduais": 0,
             "titulos_nacionais": [],
             "cor_principal": [
-                "preto",
-                "branco"
+                "#000000",
+                "#FFFFFF"
             ],
             "mascote": "Galo",
             "site_oficial": "https://quixadafc.com.br/",
@@ -258,15 +257,15 @@
                 "TEC",
                 "Alviceleste"
             ],
-            "fundacao": "2009-05-15",
+            "fundacao": "15/05/2009",
             "cidade": "Tianguá",
             "estadio": "Municipal de Tianguá",
             "capacidade_estadio": 3500,
             "titulos_estaduais": 0,
             "titulos_nacionais": [],
             "cor_principal": [
-                "azul",
-                "branco"
+                "#0000FF",
+                "#FFFFFF"
             ],
             "mascote": "Gavião",
             "site_oficial": "https://tianguaec.com.br/",
@@ -280,15 +279,15 @@
                 "HFC",
                 "Gigante do Oeste"
             ],
-            "fundacao": "2004-01-10",
+            "fundacao": "10/01/2004",
             "cidade": "Horizonte",
             "estadio": "Domingão",
             "capacidade_estadio": 5000,
             "titulos_estaduais": 0,
             "titulos_nacionais": [],
             "cor_principal": [
-                "azul",
-                "branco"
+                "#0000FF",
+                "#FFFFFF"
             ],
             "mascote": "Águia",
             "site_oficial": "https://horizontefc.com.br/",
@@ -299,8 +298,8 @@
     "informacoes_adicionais": {
         "estadio_principal_compartilhado": "Castelão (Arena Castelão)",
         "maior_rivalidade": "Clássico-Rei (Ceará x Fortaleza)",
-        "ultimo_campeao_cearense": "Fortaleza (2024)",
-        "total_times_listados": 14,
+        "ultimo_campeao_cearense": "Ceará (2015)",
+        "total_times_listados": 13,
         "fonte_escudos": "Wikipedia",
         "observacao": "Os dados de títulos estaduais e capacidade dos estádios podem sofrer alterações com o tempo. Alguns times podem alternar entre categorias profissional e semi-profissional."
     }
