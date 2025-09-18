@@ -7,7 +7,7 @@ export default function Header() {
             <Link to={"/"} className="text-xl font-bold italic">FutCE</Link>
 
             <div className="hidden sm:flex gap-4">
-                <Link to="/teams">Times</Link>
+                <Link to="/times">Times</Link>
                 <Link to="/news">Notícias</Link>
                 <Link to="/championships">Campeonatos</Link>
                 <Link to="/idols">Ídolos</Link>
