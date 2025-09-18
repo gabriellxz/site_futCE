@@ -9,7 +9,7 @@ export default function AllTeams() {
                 <div className="flex justify-between items-center">
                     <Link to={"/"} className="text-green-900 rounded-md uppercase cursor-pointer p-2 border-1 border-green-900">Voltar</Link>
 
-                    <span className="text-xl uppercase text-green-900">Confira alguns de nosso times</span>
+                    <span className="text-xl uppercase text-green-900">Confira alguns de nossos times</span>
                 </div>
 
                 <div className="w-full bg-amber-500 p-[0.5px]"></div>
