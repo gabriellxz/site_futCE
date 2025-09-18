@@ -13,7 +13,6 @@ function App() {
         {/* time by id */}
         <Route path={"/notícias"} element={<NewsPage />} />
         {/* idolos */}
-        {/* campeonatos */}
       </Routes>
     </BrowserRouter>
   )
