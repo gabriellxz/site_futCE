@@ -1,0 +1,49 @@
+{
+    "idolos": [
+        {   
+            "id": 1,
+            "nome": "Magno Alves",
+            "nascimento": "13 de janeiro de 1976",
+            "localNascimento": "Aporá, Bahia, Brasil",
+            "posicao": "Atacante",
+            "altura:": "1,75",
+            "img": "https://imgs.search.brave.com/YgoOu-YynVIFOp2V_WftW1HXSbvcIhjJ-6L4KpxCG6Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZXV2/b3phby5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjQvMDEv/TWFnbm9BbHZlc182/LmpwZw"
+        },
+        {
+            "id": 2,
+            "nome": "Clodoaldo",
+            "nascimento": "28 de dezembro de 1978",
+            "localNascimento": "Ipu, Ceará, Brasil",
+            "posicao": "Meia-atacante",
+            "altura:": "1,61",
+            "img": "https://imgs.search.brave.com/xOzpGZtYkNsznViA18_C3hiSEYZEc6d6uQgh844QIzk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jb250/ZXVkby5pbWd1b2wu/Y29tLmJyL2MvZXNw/b3J0ZS85ZC8yMDE3/LzAzLzA4L2F0YWNh/bnRlLWNsb2RvYWxk/by1lbS1zdWEtcGFz/c2FnZW0tcGVsby1m/b3J0YWxlemEtMTQ4/OTAwNjkyNjIyNV8z/MDB4MzAwLmpwZw"
+        },
+        {
+            "id": 3,
+            "nome": "Jociel, 'Ciel'",
+            "nascimento": "31 de março de 1982",
+            "localNascimento": "Caruaru, Pernambuco, Brasil",
+            "posicao": "Atacante",
+            "altura:": "1,79",
+            "img": "https://imgs.search.brave.com/2PhvCG3ecdKwadaL3z8nM00yaPEO1lamIIvyaGF9QYM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/Zm9saGFwZS5jb20u/YnIvaW1nL3BjLzEx/MDAvMS9kbl9hcnF1/aXZvLzIwMjMvMDkv/aW1hZ2UtMjAyMy0w/OS0wNXQxMTEwNDI5/NTAuanBn"
+        },
+        {
+            "id": 4,
+            "nome": "Jardel",
+            "nascimento": "18 de setembro de 1973",
+            "localNascimento": "Fortaleza, Ceará, Brasil",
+            "posicao": "Centroavante",
+            "altura:": "1,88",
+            "img": "https://imgs.search.brave.com/47dmaCca-ALgmKwLx316aE2kHv2Xhct5JTteTs34-Yo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaW1wcmVzYS5w/dC9zaWNub3QvMjAy/NS0wOS0wNC1tYXJp/by1qYXJkZWwtODg3/Njg3ZTkvb3JpZ2lu/YWw"
+        },
+        {
+            "id": 5,
+            "nome": "Sérgio Alves",
+            "nascimento": "23 de abril de 1970",
+            "localNascimento": "Recife, Pernambuco, Brasil",
+            "posicao": "Atacante",
+            "altura:": "1,75",
+            "img": "https://imgs.search.brave.com/-KlO3sZHbK7rtxZquP4s48PLF25sGfQMaXfJ-wFC4Wk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aW1nLnplcm96ZXJv/LnB0L2ltZy9qb2dh/ZG9yZXMvMzEvOTUx/MzFfMjAyMTAyMjYx/MDUwNTNfc2VyZ2lv/X2FsdmVzXzE2MTQz/MzY2NTMuanBn"
+        }
+    ]
+}
