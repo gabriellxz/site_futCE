@@ -9,7 +9,6 @@ export default function Header() {
             <div className="hidden sm:flex gap-4">
                 <Link to="/times">Times</Link>
                 <Link to="/notícias">Notícias</Link>
-                <Link to="/championships">Campeonatos</Link>
                 <Link to="/idols">Ídolos</Link>
             </div>
 
