@@ -5,8 +5,9 @@ import { Link } from "react-router-dom";
 import teams from "../../utils/teams.json"
 import type { Teams } from "@/types/teams";
 import { MdOutlineStadium } from "react-icons/md";
-import { IoIosStarOutline } from "react-icons/io";
-import { CiTrophy } from "react-icons/ci";
+import { CiCalendar, CiTrophy } from "react-icons/ci";
+import bannerIdols_mobile from "../../assets/banner_idols_mobile.jpg"
+import bannerIdols_desktop from "../../assets/banner_idols_pc.jpg"
 
 export default function Home() {
     return (
@@ -54,7 +55,7 @@ export default function Home() {
                                 </div>
                                 <div className="flex justify-between w-full text-green-900">
                                     <span className="flex items-center gap-1">
-                                        <IoIosStarOutline />
+                                        <CiCalendar />
                                         {team.fundacao}
                                     </span>
                                     <span className="flex items-center gap-1">
@@ -108,6 +109,26 @@ export default function Home() {
                     </div>
                     <Link to={"/notícias"} className="flex justify-center w-full items-center gap-5 text-green-900 rounded-md uppercase cursor-pointer p-2 border-1 border-green-900">
                         Ver todas as notícias
+                        <FaArrowRight />
+                    </Link>
+                </div>
+            </div>
+
+            {/* SECTION DE ÍDOLOS */}
+            <div className="p-5">
+                <div className="m-4 text-center">
+                    <h1 className="text-3xl font-bold uppercase text-green-900">Ídolos</h1>
+                    <p className="text-2xl mb-2 text-zinc-500">
+                        Nossos heróis cearenses que fizeram história no futebol
+                    </p>
+                    <div className="w-full bg-amber-500 p-[0.5px]"></div>
+                </div>
+
+                <div className="flex justify-center flex-col gap-3 items-center w-full">
+                    <img src={bannerIdols_mobile} alt="banner ídolos" className="rounded-lg flex sm:hidden w-full"/>
+                    <img src={bannerIdols_desktop} alt="banner ídolos" className="rounded-lg hidden sm:flex w-full"/>
+                    <Link to={"/ídolos"} className="flex justify-center w-full items-center gap-5 text-green-900 rounded-md uppercase cursor-pointer p-2 border-1 border-green-900">
+                        Ver lista
                         <FaArrowRight />
                     </Link>
                 </div>

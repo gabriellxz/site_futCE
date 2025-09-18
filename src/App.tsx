@@ -3,6 +3,7 @@ import './App.css'
 import Home from './Pages/Home/Home'
 import AllTeams from './Pages/AllTeams/AllTeams'
 import NewsPage from './Pages/NewsPage/NewsPage'
+import IdolsPage from './Pages/IdolsPage/IdolsPage'
 
 function App() {
   return (
@@ -12,7 +13,7 @@ function App() {
         <Route path="/times" element={<AllTeams/>} />
         {/* time by id */}
         <Route path={"/notícias"} element={<NewsPage />} />
-        {/* idolos */}
+        <Route path={"/ídolos"} element={<IdolsPage />} />
       </Routes>
     </BrowserRouter>
   )
