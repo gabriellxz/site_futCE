@@ -22,7 +22,7 @@
             ],
             "mascote": "Vovô",
             "site_oficial": "https://cearasc.com/",
-            "escudo": "https://upload.wikimedia.org/wikipedia/pt/5/5e/Cear%C3%A1_SC.png",
+            "escudo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cear%C3%A1_Sporting_Club_logo.svg/120px-Cear%C3%A1_Sporting_Club_logo.svg.png",
             "categoria": "Profissional"
         },
         {
@@ -48,7 +48,7 @@
             ],
             "mascote": "Leão",
             "site_oficial": "https://fortalezaec.com.br/",
-            "escudo": "https://upload.wikimedia.org/wikipedia/pt/5/58/Fortaleza_Esporte_Clube.png",
+            "escudo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Fortaleza_EC_2018.png/120px-Fortaleza_EC_2018.png",
             "categoria": "Profissional"
         },
         {
@@ -72,7 +72,7 @@
             ],
             "mascote": "Galo Ferroviário",
             "site_oficial": "https://ferroviario.net/",
-            "escudo": "https://upload.wikimedia.org/wikipedia/pt/6/6c/Ferrovi%C3%A1rio_AC.png",
+            "escudo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Escudo_do_Ferrovi%C3%A1rio_Atl%C3%A9tico_Clube.png/120px-Escudo_do_Ferrovi%C3%A1rio_Atl%C3%A9tico_Clube.png",
             "categoria": "Profissional"
         },
         {
@@ -94,7 +94,7 @@
             ],
             "mascote": "Índio",
             "site_oficial": "https://guaranysobral.com.br/",
-            "escudo": "https://upload.wikimedia.org/wikipedia/pt/4/4a/Guarany_SC.png",
+            "escudo": "https://upload.wikimedia.org/wikipedia/pt/thumb/b/b8/Escudo_do_Guarany_Sporting_Club.png/120px-Escudo_do_Guarany_Sporting_Club.png",
             "categoria": "Profissional"
         },
         {
@@ -116,7 +116,7 @@
             ],
             "mascote": "Galo",
             "site_oficial": "https://florestaec.com.br/",
-            "escudo": "https://upload.wikimedia.org/wikipedia/pt/5/5d/Floresta_Esporte_Clube.png",
+            "escudo": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Floresta_Esporte_Clube.png/120px-Floresta_Esporte_Clube.png",
             "categoria": "Profissional"
         },
         {
@@ -138,7 +138,7 @@
             ],
             "mascote": "Dragão",
             "site_oficial": "https://atleticocearense.com.br/",
-            "escudo": "https://upload.wikimedia.org/wikipedia/pt/6/6e/Atl%C3%A9tico_Cearense.png",
+            "escudo": "https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/FCAtl%C3%A9ticoCearense.png/120px-FCAtl%C3%A9ticoCearense.png",
             "categoria": "Profissional"
         },
         {
@@ -160,7 +160,7 @@
             ],
             "mascote": "Locomotiva",
             "site_oficial": "https://barbalhafc.com/",
-            "escudo": "https://upload.wikimedia.org/wikipedia/pt/8/8d/Barbalha_FC.png",
+            "escudo": "https://upload.wikimedia.org/wikipedia/pt/thumb/3/33/BarbalhaFC2021.png/120px-BarbalhaFC2021.png",
             "categoria": "Profissional"
         },
         {
@@ -182,7 +182,7 @@
             ],
             "mascote": "Periquito",
             "site_oficial": "https://icasasportclub.com.br/",
-            "escudo": "https://upload.wikimedia.org/wikipedia/pt/0/06/Icasa_SC.png",
+            "escudo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Icasa_Esporte_Clube_1973.jpg/250px-Icasa_Esporte_Clube_1973.jpg",
             "categoria": "Profissional"
         },
         {
@@ -204,7 +204,7 @@
             ],
             "mascote": "Tigre",
             "site_oficial": "https://maranguapefc.com.br/",
-            "escudo": "https://upload.wikimedia.org/wikipedia/pt/2/2c/Maranguape_FC.png",
+            "escudo": "https://upload.wikimedia.org/wikipedia/pt/thumb/a/a5/Escud_do_Maranguape_FC_2021.png/120px-Escud_do_Maranguape_FC_2021.png",
             "categoria": "Profissional"
         },
         {
@@ -226,7 +226,7 @@
             ],
             "mascote": "Cajueiro",
             "site_oficial": "https://pacajusec.com.br/",
-            "escudo": "https://upload.wikimedia.org/wikipedia/pt/7/7e/Pacajus_EC.png",
+            "escudo": "https://upload.wikimedia.org/wikipedia/pt/thumb/c/c0/PacajusEC.png/120px-PacajusEC.png",
             "categoria": "Semi-profissional"
         },
         {
@@ -248,7 +248,7 @@
             ],
             "mascote": "Galo",
             "site_oficial": "https://quixadafc.com.br/",
-            "escudo": "https://upload.wikimedia.org/wikipedia/pt/1/1d/Quixad%C3%A1_FC.png",
+            "escudo": "https://upload.wikimedia.org/wikipedia/pt/thumb/d/d8/Quixada_logo.png/250px-Quixada_logo.png",
             "categoria": "Semi-profissional"
         },
         {
@@ -270,7 +270,7 @@
             ],
             "mascote": "Gavião",
             "site_oficial": "https://tianguaec.com.br/",
-            "escudo": "https://upload.wikimedia.org/wikipedia/pt/8/8b/Tiangu%C3%A1_EC.png",
+            "escudo": "https://upload.wikimedia.org/wikipedia/pt/thumb/a/ab/TianguaEC.png/120px-TianguaEC.png",
             "categoria": "Semi-profissional"
         },
         {
@@ -292,29 +292,7 @@
             ],
             "mascote": "Águia",
             "site_oficial": "https://horizontefc.com.br/",
-            "escudo": "https://upload.wikimedia.org/wikipedia/pt/9/9a/Horizonte_FC.png",
-            "categoria": "Semi-profissional"
-        },
-        {
-            "id": 14,
-            "nome": "Uniclinic Esporte Clube",
-            "apelidos": [
-                "Clinica",
-                "Alviceleste"
-            ],
-            "fundacao": "1998-05-01",
-            "cidade": "Fortaleza",
-            "estadio": "Presidente Vargas",
-            "capacidade_estadio": 20000,
-            "titulos_estaduais": 0,
-            "titulos_nacionais": [],
-            "cor_principal": [
-                "azul",
-                "branco"
-            ],
-            "mascote": "Gavião",
-            "site_oficial": "https://uniclinic.com.br/",
-            "escudo": "https://upload.wikimedia.org/wikipedia/pt/0/0f/Uniclinic_EC.png",
+            "escudo": "https://upload.wikimedia.org/wikipedia/pt/thumb/0/07/HorizonteFC.png/120px-HorizonteFC.png",
             "categoria": "Semi-profissional"
         }
     ],
