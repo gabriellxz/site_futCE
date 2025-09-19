@@ -1,8 +1,8 @@
-# Portal Esportivo - Pitch de Apresentação
+# FutCE - Pitch de Apresentação
 
 ## Objetivo
 
-O Portal Esportivo foi criado para ser uma plataforma digital centralizadora de informações sobre times, notícias, estádios e ídolos do esporte. O objetivo é oferecer uma experiência moderna, intuitiva e responsiva, conectando fãs ao universo esportivo de forma simples e eficiente.
+O FutCE foi criado para ser uma plataforma digital centralizadora de informações sobre times, notícias, estádios e ídolos do esporte. O objetivo é oferecer uma experiência moderna, intuitiva e responsiva, conectando fãs ao universo esportivo de forma simples e eficiente.
 
 ---
 
@@ -53,7 +53,7 @@ O Portal Esportivo foi criado para ser uma plataforma digital centralizadora de 
 
 ## Conclusão
 
-O Portal Esportivo entrega uma solução inovadora para fãs de esportes, reunindo informações essenciais em um ambiente digital agradável, eficiente e preparado para crescer junto com as demandas do público.
+O FutCE entrega uma solução inovadora para fãs de esportes, reunindo informações essenciais em um ambiente digital agradável, eficiente e preparado para crescer junto com as demandas do público.
 
 ---
 ```js
