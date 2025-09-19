@@ -4,6 +4,7 @@ import Home from './Pages/Home/Home'
 import AllTeams from './Pages/AllTeams/AllTeams'
 import NewsPage from './Pages/NewsPage/NewsPage'
 import IdolsPage from './Pages/IdolsPage/IdolsPage'
+import StadiumsPage from './Pages/Stadiums/StadiumsPage'
 
 function App() {
   return (
@@ -11,7 +12,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home/>} />
         <Route path="/times" element={<AllTeams/>} />
-        {/* time by id */}
+        <Route path="/estádios" element={<StadiumsPage />} />
         <Route path={"/notícias"} element={<NewsPage />} />
         <Route path={"/ídolos"} element={<IdolsPage />} />
       </Routes>

@@ -1,0 +1,34 @@
+{
+    "estadios": [
+        {
+            "id": 1,
+            "nome": "Arena Castelão",
+            "nome_oficial": "Estádio Governador Plácido Castelo",
+            "cidade": "Fortaleza",
+            "capacidade": 63903,
+            "clubes": [
+                "Fortaleza EC",
+                "Ceará SC",
+                "Ferroviário AC"
+            ],
+            "inauguracao": "1973-11-11",
+            "proprietario": "Governo do Estado do Ceará",
+            "observacoes": "Estádio sede da Copa do Mundo de 2014",
+            "img": "https://imgs.search.brave.com/MC9Zo1PdxyUjg0KUQo7qxQm-1JE6aBuIoGkgUh0LNG0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTY2/NzYyNzA1L3Bob3Rv/L2FuLWFlcmlhbC12/aWV3LW9mLWNhc3Rl/bGFvLWFyZW5hLWlu/LWZvcnRhbGV6YS1z/dGF0ZS1vZi1jZWFy/YS1pbi1ub3J0aGVh/c3Rlcm4tYnJhemls/LW9uLWFwcmlsLmpw/Zz9zPTYxMng2MTIm/dz0wJms9MjAmYz1l/YWZGWERTSGVVZ0Ft/b0JpdEQydjFmNEVo/eUE3cTlmd2x1Rnlj/S3MxX3BrPQ"
+        },
+        {
+            "id": 2,
+            "nome": "Estádio Presidente Vargas",
+            "apelido": "PV",
+            "cidade": "Fortaleza",
+            "capacidade": 21576,
+            "clubes": [
+                "Fortaleza EC"
+            ],
+            "inauguracao": "1918-11-25",
+            "proprietario": "Fortaleza EC",
+            "observacoes": "Primeiro estádio de Fortaleza",
+            "img": "https://imgs.search.brave.com/_MaLEd2S9T2lEevJIaJXSyVMGXFpgsCU5bC606VfqRc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/b3Bvdm8uY29tLmJy/L19taWRpYXMvanBn/LzIwMjUvMDEvMjAv/ODIweDQ2MC8xX2Vz/dGFkaW9fcHJlc2lk/ZW50ZV92YXJnYXNf/Zm9ydGFsZXphX18y/Xy0zMjQzMjQ1Ny5q/cGc"
+        }
+    ]
+}

@@ -125,12 +125,37 @@ export default function Home() {
                 </div>
 
                 <div className="flex justify-center flex-col gap-3 items-center w-full">
-                    <img src={bannerIdols_mobile} alt="banner ídolos" className="rounded-lg flex sm:hidden w-full"/>
-                    <img src={bannerIdols_desktop} alt="banner ídolos" className="rounded-lg hidden sm:flex w-full"/>
+                    <img src={bannerIdols_mobile} alt="banner ídolos" className="rounded-lg flex sm:hidden w-full" />
+                    <img src={bannerIdols_desktop} alt="banner ídolos" className="rounded-lg hidden sm:flex w-full" />
                     <Link to={"/ídolos"} className="flex justify-center w-full items-center gap-5 text-green-900 rounded-md uppercase cursor-pointer p-2 border-1 border-green-900">
                         Ver lista
                         <FaArrowRight />
                     </Link>
+                </div>
+            </div>
+
+            {/* SECTION DE ESTADIOS */}
+            <div className="p-5">
+                <div className="m-4 text-center">
+                    <h1 className="text-3xl font-bold uppercase text-green-900">Estádios</h1>
+                    <p className="text-2xl mb-2 text-zinc-500">
+                        Estádios da elite cearense
+                    </p>
+                    <div className="w-full bg-amber-500 p-[0.5px]"></div>
+                </div>
+
+                <div className="flex justify-center items-center flex-col gap-3">
+                    <img
+                        src="https://imgs.search.brave.com/MC9Zo1PdxyUjg0KUQo7qxQm-1JE6aBuIoGkgUh0LNG0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTY2/NzYyNzA1L3Bob3Rv/L2FuLWFlcmlhbC12/aWV3LW9mLWNhc3Rl/bGFvLWFyZW5hLWlu/LWZvcnRhbGV6YS1z/dGF0ZS1vZi1jZWFy/YS1pbi1ub3J0aGVh/c3Rlcm4tYnJhemls/LW9uLWFwcmlsLmpw/Zz9zPTYxMng2MTIm/dz0wJms9MjAmYz1l/YWZGWERTSGVVZ0Ft/b0JpdEQydjFmNEVo/eUE3cTlmd2x1Rnlj/S3MxX3BrPQ"
+                        alt="estadio"
+                        className="max-w-[800px] w-full rounded-lg"
+                    />
+                    <div className="w-full flex justify-center">
+                        <Link to={"/estádios"} className="flex justify-center max-w-[800px] w-full items-center gap-5 text-green-900 rounded-md uppercase cursor-pointer p-2 border-1 border-green-900">
+                            + 1
+                            <FaArrowRight />
+                        </Link>
+                    </div>
                 </div>
             </div>
         </div>
