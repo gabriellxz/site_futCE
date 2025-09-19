@@ -176,10 +176,7 @@ export default function Home() {
                             <FaInstagram />
                             <a href="https://www.instagram.com/gsylvaaa/" target="_blank">Gabriel Silva</a>
                         </li>
-                        <li className="flex items-center gap-2">
-                            <FaInstagram />
-                            <a href="https://www.instagram.com/alonsoxc7/" target="_blank">Alonso</a>
-                        </li>
+               
                         
                     </ul>
                 </div>
