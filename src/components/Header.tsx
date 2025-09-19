@@ -8,7 +8,7 @@ export default function Header() {
             <div className="flex gap-4">
                 <Link to="/times">Times</Link>
                 <Link to="/notícias">Notícias</Link>
-                <Link to="/idols">Ídolos</Link>
+                <Link to="/ídolos">Ídolos</Link>
                 <Link to="/estádios">Estádios</Link>
             </div>
 
