@@ -1,6 +1,6 @@
 import "./style.css"
 import Header from "../../components/Header";
-import { FaArrowRight } from "react-icons/fa";
+import { FaArrowRight, FaInstagram } from "react-icons/fa";
 import { Link } from "react-router-dom";
 import teams from "../../utils/teams.json"
 import type { Teams } from "@/types/teams";
@@ -158,6 +158,32 @@ export default function Home() {
                     </div>
                 </div>
             </div>
+
+            <footer className="bg-green-900 text-white p-5 flex flex-col gap-5">
+                <div className="flex justify-between">
+                    <Link to={"/"} className="text-xl font-bold italic">FutCE</Link>
+                    <p>&copy; Copyright FutCE 2025</p>
+                </div>
+                <div className="w-full bg-amber-500 p-[0.5px]"></div>
+                <div>
+                    <span className="text-2xl font-bold">Equipe de desenvolvimento</span>
+                    <ul>
+                        <li className="flex items-center gap-2">
+                            <FaInstagram />
+                            <a href="https://www.instagram.com/iarley_bs/" target="_blank">Leandro Iarley</a>
+                        </li>
+                        <li className="flex items-center gap-2">
+                            <FaInstagram />
+                            <a href="https://www.instagram.com/gsylvaaa/" target="_blank">Gabriel Silva</a>
+                        </li>
+                        <li className="flex items-center gap-2">
+                            <FaInstagram />
+                            <a href="https://www.instagram.com/alonsoxc7/" target="_blank">Alonso</a>
+                        </li>
+                        
+                    </ul>
+                </div>
+            </footer>
         </div>
     )
 }
